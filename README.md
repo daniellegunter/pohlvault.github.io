@@ -1,2 +1,2 @@
-## Welcome to Innova Documentation
+## Welcome to Innova documentation
 
