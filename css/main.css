@@ -2,6 +2,10 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+#logo {
+  height: 100px;
+  vertical-align: middle;
+}
 ul {
     list-style-type: none;
     margin: 0;
