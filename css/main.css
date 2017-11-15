@@ -26,14 +26,6 @@ li a {
     text-decoration: none;
 }
 
-li a:hover:not(.active) {
-    background-color: #FFFFFF;
-}
-
-.active {
-    background-color: #f2f2f2;
-}
-
 nav ul, footer ul {
     font-family:'Myriad Pro', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -48,6 +40,13 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+}
+li a:hover:not(.active) {
+    background-color: #FFFFFF;
+}
+
+.active {
+    background-color: #f2f2f2;
 }
 a {
     text-decoration: none;
