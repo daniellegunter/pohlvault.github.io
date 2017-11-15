@@ -45,23 +45,6 @@ li a {
     text-decoration: none;
 }
 
-footer ul {
-    font-family:'Myriad Pro', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    display: inline;
-    list-style: none;
-    font-weight: bold;
-    list-style-type: none;
-    text-align: right;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #FFFFFF;
-}
-footer ul li {
-    display: inline;
-    padding: 20px;
-
     
 h1 {
     font-size: 3em;
@@ -76,6 +59,7 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    text-align: right;
 }
 
 ul.posts { 
