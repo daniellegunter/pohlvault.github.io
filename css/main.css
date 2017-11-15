@@ -57,7 +57,7 @@ li a {
     text-decoration: none;
 }
 
-nav ul, footer ul {
+footer ul {
     font-family:'Myriad Pro', 'Arial', 'Sans-Serif';
     padding: 0px;
     display: inline;
@@ -69,7 +69,7 @@ nav ul, footer ul {
     overflow: hidden;
     background-color: #FFFFFF;
 }
-nav ul li, footer ul li {
+footer ul li {
     display: inline;
     padding: 20px;
     margin-left: -5px;
