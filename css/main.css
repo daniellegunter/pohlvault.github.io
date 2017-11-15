@@ -27,7 +27,7 @@ li a:hover {
     background-color: #f2f2f2;
 }
 nav ul, footer ul {
-    font-family:'Myriad Pro;', 'Sans-Serif';
+    font-family:'Myriad Pro', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -45,7 +45,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Myriad Pro;', 'Sans-Serif';
+    font-family:'Myriad Pro', 'Sans-Serif';
 }
 p {
     font-size: 1.5em;
