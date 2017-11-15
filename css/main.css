@@ -19,22 +19,11 @@ body {
     display: block;
     color: #003A70;
     text-align: center;
+    vertical-align: middle;
     padding: 14px 16px;
     text-decoration: none;
     font-family:'Myriad Pro', 'Arial', 'Sans-Serif';
     font-size: 17px;
-}
-
-/* Change the color of links on hover */
-.topnav a:hover {
-    background-color: #f0f0f0;
-    color: #003A70;
-}
-
-/* Add a color to the active/current link */
-.topnav a.active {
-    background-color: #f0f0f0;
-    color: #003A70;
 }
 
 ul {
