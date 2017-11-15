@@ -39,6 +39,11 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FFFFFF;
 }
 nav ul li, footer ul li {
     display: inline;
