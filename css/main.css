@@ -6,13 +6,12 @@ body {
   height: 30px;
   vertical-align: middle;
 }
-
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: white;
+    background-color: #333;
 }
 
 li {
@@ -21,11 +20,18 @@ li {
 
 li a {
     display: block;
-    color: #003A70;
-    font-family:'Myriad Pro', 'Arial', 'Sans-Serif';
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
 }
 
 /* Change the link color to ##f2f2f2 (grey) on hover */
