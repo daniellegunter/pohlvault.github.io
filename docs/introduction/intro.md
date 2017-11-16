@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Innova explained
 Innova Food Processing software ranges from simple device control modules to total processing solutions adapted to the individual needs of food processors.
 Innova ensures reliable data collection, providing full traceability throughout the production process. It includes real-time monitoring of key performance indicators (KPIs) such as yield, throughput, quality, capacity and labor efficiency. These valuable insights enable processors to identify opportunities for improvements, while ensuring that production conforms to quality and food safety standards.
