@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### Reach the documentation team  
 innovadocs@marel.com  
 
