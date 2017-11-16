@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 #TEST
 ### Reach the documentation team  
