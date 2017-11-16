@@ -1,6 +1,15 @@
 ---
-layout: default
-title: Innova documentation
+layout: home
 ---
+#TEST
+### Reach the documentation team  
+innovadocs@marel.com  
 
-# Welcome to Innova documentation
+### Headquarters  
+Marel  
+Austurhraun 9  
+Gardabaer  
+IS-210 Iceland  
+
+Tel: +354-563-8000  
+Fax: +354-563-8001
