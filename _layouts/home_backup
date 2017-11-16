@@ -3,6 +3,18 @@
 <title>{{ page.title }}</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+ 
+ <!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <meta name="description" content="{{ site.title | default: github.pohlvault.github.io. }} : {{ site.description | default: site.github.project_tagline }}">
+
+{% seo %}
+  </head>
 
  <!-- link to stylesheets -->
 <link rel="stylesheet" type="text/css" href="/css/w3.css">
@@ -12,7 +24,8 @@
 <style>
 html,body,h1,h2,h3,h4,h5,h6 {font-family: Myriad pro, sans-serif;}
 </style>
-<body>
+
+ <body>
 
  /* Rules for using icons as black on a light background. */
 .material-icons.md-dark { color: rgba(0, 0, 0, 0.54); }
@@ -35,7 +48,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: Myriad pro, sans-serif;}
                                         
    <div class="w3-container w3-padding-32 w3-margin-left">
       <h1 class="w3-text-dark-grey">Innova docs</h1>
-      <p>docs.innova.com is the home for Innova technical documentation, API reference, code examples, quickstarts, and tutorials.</p>
+      <h4>docs.innova.com is the home for Innova technical documentation, API reference, code examples, quickstarts, and tutorials.</h4>
     </div>      
                                    
  <!-- Grid -->
@@ -107,7 +120,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: Myriad pro, sans-serif;}
   <div class="w3-container w3-padding-32 w3-margin-left">                                                                                          
    </div>                           
     
-      
+<!-- FOOTER -->      
    <footer id="myFooter">
         <div class="w3-container w3-theme">
       <p><a href="https://www.marel.com" target="_blank">Marel.com</a></p>
