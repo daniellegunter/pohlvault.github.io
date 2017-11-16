@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<title>{{ page.title }}</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+ <!-- link to stylesheets -->
+<link rel="stylesheet" type="text/css" href="/css/w3.css">
+<link rel="stylesheet" type="text/css" href="/css/w3-theme-marel.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: Myriad pro, sans-serif;}
+</style>
+<body>
+
+ /* Rules for using icons as black on a light background. */
+.material-icons.md-dark { color: rgba(0, 0, 0, 0.54); }
+.material-icons.md-dark.md-inactive { color: rgba(0, 0, 0, 0.26); }
+  
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-theme w3-top w3-left-align w3-large">
+    <a class="w3-bar-item w3-button w3-right w3-hide-large w3-hover-white w3-large w3-theme-l1" href="javascript:void(0)" onclick="w3_open()"><i class="fa fa-bars"></i></a>
+    <a href="/index.html" class="w3-bar-item w3-button w3-hide-small w3-hover-#898E8C">Docs</a>
+    <a href="/blog" class="w3-bar-item w3-button w3-hide-small w3-hover-#898E8C">Blog</a>
+    <a href="/contact" class="w3-bar-item w3-button w3-hide-small w3-hover-#898E8C">Contact</a>
+     <input type="text" class="w3-bar-item w3-input" placeholder="Search..">
+  <a href="#" class="w3-bar-item w3-button w3-light-grey">Go</a>
+    </div>
+</div>
+
+<!-- Page Content -->
+<div>
+                                        
+   <div class="w3-container w3-padding-32 w3-margin-left">
+      <h1 class="w3-text-dark-grey">Innova docs</h1>
+      <p>docs.innova.com is the home for Innova technical documentation, API reference, code examples, quickstarts, and tutorials.</p>
+    </div>      
+                                   
+ <!-- Grid -->
+                                                                                          
+   <div class="w3-row-padding">
+      <div class="w3-col m2 w3-container"> 
+         <div class="w3-container">
+           <a href="/docs/introduction/intro.md">
+  <img src="images/introduction.png" alt="Introduction" class="w3-image">
+</a>
+         </div>
+     </div>
+     <div class="w3-col m2 w3-container"> 
+         <div class="w3-container">
+           <img src="images/Innova-device-blue.png" alt="Device Control" class="w3-image">
+         </div>
+     </div>
+        <div class="w3-col m2 w3-container"> 
+          <div class="w3-container">
+           <img src="images/Processcontrol-blue.png" alt="Process Control" class="w3-image">
+         </div>
+     </div>                                                                                               
+         <div class="w3-col m2 w3-container"> 
+          <div class="w3-container">
+           <img src="images/performance-monitoring-blue.png" alt="Performance Monitoring" class="w3-image">
+         </div>
+     </div>                                          
+         <div class="w3-col m2 w3-container"> 
+           <div class="w3-container">
+            <img src="images/weighing-labeling-blue.png" alt="Weighing & Labeling" class="w3-image">
+           </div>
+         </div> 
+        </div>        
+       <div class="w3-row-padding">
+            <div class="w3-container w3-padding">
+            </div>                                    
+       </div>  
+        <div class="w3-row-padding">
+            <div class="w3-container w3-padding">
+            </div>                                    
+        </div>                                          
+       <div class="w3-row-padding">                                                                                             
+         <div class="w3-col m2 w3-container"> 
+           <div class="w3-container">
+            <img src="images/Qualityqontrol-blue.png" alt="Quality Control" class="w3-image">
+           </div>
+         </div>   
+        <div class="w3-col m2 w3-container"> 
+           <div class="w3-container">
+            <img src="images/logistics-blue.png" alt="Logistics" class="w3-image">
+           </div>
+         </div>      
+         <div class="w3-col m2 w3-container"> 
+           <div class="w3-container">
+            <img src="images/order-processing-planning-blue.png" alt="Order Processing & Planning" class="w3-image">
+           </div>
+         </div>
+          <div class="w3-col m2 w3-container"> 
+           <div class="w3-container">
+            <img src="images/traceability-blue.png" alt="Traceability" class="w3-image">
+           </div>
+         </div>   
+          <div class="w3-col m2 w3-container"> 
+           <div class="w3-container">
+            <img src="images/intergration-service-blue.png" alt="Integration Service" class="w3-image">
+           </div>
+         </div>      
+                                                                                       
+  <div class="w3-container w3-padding-32 w3-margin-left">                                                                                          
+   </div>                           
+    
+      
+   <footer id="myFooter">
+        <div class="w3-container w3-theme">
+      <p><a href="https://www.marel.com" target="_blank">Marel.com</a></p>
+    </div>
+  </footer>
+
+<!-- END PAGE CONTENT -->
+</div>
+
+</body>
+</html>
