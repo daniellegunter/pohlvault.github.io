@@ -9,3 +9,4 @@ If your setup does not require a password, a splash screen will be shown and the
 2. Enter your user name.  
 3. Enter your password.  
 4. Click Sign in.
+
